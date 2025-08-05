@@ -60,7 +60,7 @@ export default function TeamPage() {
               <p className="text-xl text-gray-600 mb-6">Full-Stack Developer</p>
               
               <p className="text-gray-700 leading-relaxed mb-8 max-w-2xl mx-auto">
-                I'm a passionate developer who loves creating intuitive and beautiful web applications. 
+                I&apos;m a passionate developer who loves creating intuitive and beautiful web applications. 
                 With expertise in modern technologies like React, Next.js, and Node.js, I build solutions 
                 that not only look great but also provide exceptional user experiences. This expense 
                 splitting app is one of my projects that combines functionality with elegant design.

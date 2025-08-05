@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   title: 'SplitEasy - Smart Expense Management',
   description: 'Split expenses effortlessly with friends, family, and colleagues. Track, calculate, and settle up with ease.',
   keywords: 'expense splitting, bill splitting, group expenses, travel expenses, shared costs',
-  authors: [{ name: 'Your Name' }],
+  authors: [{ name: 'Parth Mandhare' }],
   icons: {
     icon: [
       { url: '/favicon.ico' },
